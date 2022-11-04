@@ -2,7 +2,7 @@
 
 ### Σπύρος Δουλαβέρης
 ### University Registration Number: dpsd19033
-### GitHub Personal Profile: xxx
+### GitHub Personal Profile: https://github.com/sdoulaveris
 ### Digital & Serious Games Personal Repository: xxx
 
 # Introduction
@@ -22,7 +22,7 @@
 πήρα πληροφορίες για το πώς θα χρησιμοποιήσω το tile που κατέβασα.
 Μετά πειραματίστηκα με τα layers του grind για μπόρεσω να έχω εν μέρη βαθος στο σκινηκό μου καλυπτώντασ τα κενά με άλλο σκηνικό.
 
-Για να ανέβάσω το αρχείο πήγα στα buil sittings του file όπου επέλεξα τα open scenes, την WebGL ως πλατφόρμα και μέτα στα Publishing Settings έκανα το compression format dissable. Πάτησα build & run και έφτιαξα φάκελο που με το όνομα build, αλλα αυτό δεν έπιασε οπότε έφτιαξα νέο φάκελο με όνομα buildplswork και συνεχήσα την διαδικασία. Στο GitHubDeckstop στα στα files πρόσθεσα το Role-Playng-Game από το Local Repository και αντικατέστησα το index το build και το άλλο με τα data με αυτά του buildplswork. Eβαλα όνομα στο summary και έπελεξα commot to main και μέτα push origin και ανεβηκαν στο GitHub, the rest is history...
+Aπο το https://learn.unity.com/tutorial/build-run-distribute?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c και όσα είπαμε στην τάξη ξεκινησα να ανεβάζω το project. Για να ανέβάσω το αρχείο πήγα στα buil sittings του file όπου επέλεξα τα open scenes, την WebGL ως πλατφόρμα και μέτα στα Publishing Settings έκανα το compression format dissable. Πάτησα build & run και έφτιαξα φάκελο που με το όνομα build, αλλα αυτό δεν έπιασε οπότε έφτιαξα νέο φάκελο με όνομα buildplswork και συνεχήσα την διαδικασία. Στο GitHubDeckstop στα στα files πρόσθεσα το Role-Playng-Game από το Local Repository και αντικατέστησα το index το build και το άλλο με τα data με αυτά του buildplswork. Eβαλα όνομα στο summary και έπελεξα commot to main και μέτα push origin και ανεβηκαν στο GitHub, the rest is history...
 
 
 
