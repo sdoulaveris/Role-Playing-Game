@@ -6,7 +6,7 @@
 ### Digital & Serious Games Personal Repository: xxx
 
 # Introduction
-GEIAAAAA
+
 # Summary
 
 
@@ -18,9 +18,11 @@ GEIAAAAA
 
 Επειτα έψαξα για free assets στο https://itch.io/game-assets/free/tag-unity και επέλεξα αυτό:
 ###![16x16](https://user-images.githubusercontent.com/101328993/200041641-cd4892e0-245d-46a9-a168-dfa96f72905a.png)
-Από το youtube βίντεο:
+Από το youtube βίντεο:https://www.youtube.com/watch?v=DTp5zi8_u1U
 πήρα πληροφορίες για το πώς θα χρησιμοποιήσω το tile που κατέβασα.
 Μετά πειραματίστηκα με τα layers του grind για μπόρεσω να έχω εν μέρη βαθος στο σκινηκό μου καλυπτώντασ τα κενά με άλλο σκηνικό.
+
+Για να ανέβάσω το αρχείο πήγα στα buil sittings του file όπου επέλεξα τα open scenes, την WebGL ως πλατφόρμα και μέτα στα Publishing Settings έκανα το compression format dissable. Πάτησα build & run και έφτιαξα φάκελο που με το όνομα build, αλλα αυτό δεν έπιασε οπότε έφτιαξα νέο φάκελο με όνομα buildplswork και συνεχήσα την διαδικασία. Στο GitHubDeckstop στα στα files πρόσθεσα το Role-Playng-Game από το Local Repository και αντικατέστησα το index το build και το άλλο με τα data με αυτά του buildplswork. Eβαλα όνομα στο summary και έπελεξα commot to main και μέτα push origin και ανεβηκαν στο GitHub, the rest is history...
 
 
 
