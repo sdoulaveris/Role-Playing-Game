@@ -28,7 +28,7 @@ Aπο το https://learn.unity.com/tutorial/build-run-distribute?uv=2020.3&proje
 
 
 # 2nd Deliverable
-
+Αρχικά έφτιαξα τις ρυθμίσεις για την βαρύτητα του χαρακτήρα από το https://learn.unity.com/tutorial/world-interactions-blocking-movement?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#5ce3c824edbc2a3c64f6ab70 και μέτα πειραματιστηκα με τα coliders σε ότι αφορά τα σχήματα για να είναι ρεαλιστική η αλληλεπίδραση του ήρωα με τον χώρο και άλλαξα τον κώδικα για το controller της ruby σύμφωνα με το tutorial στο github. Μετά άλλαξα συμφωνα με το tutorial το skript του ήρωα για να προσθέσω τις ζωες, στον χάρτη η ζωή μειώνεται όταν ο χαρακτήρας ακουμπήσει τις φώτιες και αυξάνεται όταν πάει στα σεντούκια
 
 # 3rd Deliverable 
 
